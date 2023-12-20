@@ -1,2 +1,2 @@
 # DDS
-This is a DDS test board project which based on AD0932
+This is a DDS test board project which based on AD9832
