@@ -6,7 +6,6 @@
  */
 
 #include <asm/div64.h>
-
 #include <linux/clk.h>
 #include <linux/device.h>
 #include <linux/err.h>
